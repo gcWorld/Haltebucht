@@ -1,5 +1,5 @@
 # Haltebuchten 1.1
-
+Details und Downloadlinks: https://www.gcmods.de/downloads/haltebucht
 --For english version see below--
 
 ## Installation
